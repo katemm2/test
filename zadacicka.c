@@ -2,9 +2,13 @@
 
 int main()
 {
+<<<<<<< HEAD
 printf("ZASO MACE SELJAK");
 
 
+=======
+   printf("PIEME VINO BACE");
+>>>>>>> NOVA
 
 
 
