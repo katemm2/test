@@ -3,6 +3,8 @@
 int main()
 {
    printf("NOVA PROMENA");
+   printf("Uste edna promena");
+
 
 
 
