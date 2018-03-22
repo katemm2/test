@@ -1,11 +1,11 @@
-#include <stdio.h>
+`#include <stdio.h>
 
 int main()
 {
    printf("I am hungry");
    printf("yes yes ");
-printf("NE");
- printf("YES");
+ printf("NE");
+ printf("NE");
 
 
 
